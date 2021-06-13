@@ -2,11 +2,11 @@
 // @name         Aggregator Dark Mode
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @icon				 https://news.ycombinator.com/y18.gif
+// @icon         https://news.ycombinator.com/y18.gif
 // @description  Simple Dark Mode Stylesheet for HN.
 // @match        https://news.ycombinator.com/* 
-// @match				 https://lobste.rs/*
-// @match				 https://lemmy.ml/*
+// @match        https://lobste.rs/*
+// @match        https://lemmy.ml/*
 // @grant        All
 // ==/UserScript==
 
