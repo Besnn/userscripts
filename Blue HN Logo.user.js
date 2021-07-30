@@ -5,12 +5,12 @@
 // @include     https://news.ycombinator.com/*
 // @version     1
 // @grant       none
-// @icon			  https://raw.githubusercontent.com/Besnn/bookmarklets/master/assets/y18.png
+// @icon			  https://raw.githubusercontent.com/Besnn/userscripts/master/assets/y18.png
 // @run-at      document-start
 // ==/UserScript==
 
 let lookup_table = {
-	'https://news.ycombinator.com/y18.gif': 'https://raw.githubusercontent.com/Besnn/bookmarklets/master/assets/y18.png',
+	'https://news.ycombinator.com/y18.gif': 'https://raw.githubusercontent.com/Besnn/userscripts/master/assets/y18.png',
 };
 
 for (let image of document.getElementsByTagName('img')) {
