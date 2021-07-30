@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name        Blue HN Logo
-// @namespace   don't know what to put there
-// @description My script description
+// @namespace   yes
+// @description no
 // @include     https://news.ycombinator.com/*
 // @version     1
 // @grant       none
