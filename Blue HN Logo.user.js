@@ -5,7 +5,7 @@
 // @include     https://news.ycombinator.com/*
 // @version     1
 // @grant       none
-// @icon			  https://raw.githubusercontent.com/Besnn/userscripts/master/assets/y18.png
+// @icon        https://raw.githubusercontent.com/Besnn/userscripts/master/assets/y18.png
 // @run-at      document-start
 // ==/UserScript==
 
