@@ -17,7 +17,7 @@
     style.innerHTML = (function EOF(){ /*!<<<EOF
 body  { font-family:Verdana, Geneva, sans-serif; font-size:10pt; color:#999999; background-color: #000001;
 background-image: url("https://raw.githubusercontent.com/Besnn/userscripts/master/assets/stars.gif") }
-#hnmain { background-color: #181c5c; }
+#hnmain { background-color: rgba(0, 0, 0, 0); }
 .admin td   { font-family:Verdana, Geneva, sans-serif; font-size:8.5pt; color:#000000; }
 textarea { font-family:monospace; font-size:10pt; background: #9090A0; color: #111111; }
 a:link    { color:#CCCCCC; text-decoration:underline; }
