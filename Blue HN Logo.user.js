@@ -10,7 +10,7 @@
 // ==/UserScript==
 
 let lookup_table = {
-	'https://news.ycombinator.com/y18.gif': 'https://raw.githubusercontent.com/Besnn/userscripts/master/assets/y18.png',
+	'https://news.ycombinator.com/y18.svg': 'https://raw.githubusercontent.com/Besnn/userscripts/master/assets/y18.png',
 };
 
 for (let image of document.getElementsByTagName('img')) {
